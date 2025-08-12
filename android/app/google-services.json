@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "717513346008",
+    "project_id": "app-kohlberg-4c893",
+    "storage_bucket": "app-kohlberg-4c893.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717513346008:android:a0e69c3b676250b9b2c0ad",
+        "android_client_info": {
+          "package_name": "com.example.kohlberg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717513346008-maqgqjb7g8egvscf27fud9rnr8hppj1u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kohlberg",
+            "certificate_hash": "dcf83e515adb4a11d7d3a43dc98bb875df2c6771"
+          }
+        },
+        {
+          "client_id": "717513346008-o3cv8eo8uose23dkdl0t8br7941r8l8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaO0sD9NwgSb_ldAI4DQRtBK5hqVijndI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717513346008-o3cv8eo8uose23dkdl0t8br7941r8l8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

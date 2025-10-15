@@ -9,7 +9,7 @@ import 'package:mime/mime.dart';
 import 'package:http_parser/http_parser.dart';
 
 class AuthService {
-  static const String baseUrl = 'https://04c6-2800-cd0-cf9c-2f00-1446-fa0d-1803-7dc2.ngrok-free.app'; 
+  static const String baseUrl = 'https://backend-kohlberg.onrender.com'; 
   static const String tokenKey = 'auth_token';
   static const String userKey = 'user_data';
   static String? lastErrorMessage;
